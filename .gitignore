@@ -1,0 +1,36 @@
+# Ambiente virtual e cache do modelo
+.venv/
+venv/
+.hf-cache/
+hf-cache/
+.cache/huggingface/
+
+# Artefatos Python e ferramentas de teste
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Bancos SQLite locais e arquivos auxiliares
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-*
+*.sqlite3-*
+*.db-*
+
+# Credenciais locais
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.aws/
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
+Thumbs.db

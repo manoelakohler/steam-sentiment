@@ -1,0 +1,37 @@
+[
+  {
+    "review_id": "236847510",
+    "texto": "ta bien",
+    "label": "POSITIVE",
+    "confidence": 0.9613,
+    "voted_up": true
+  },
+  {
+    "review_id": "236845330",
+    "texto": "Possibly the best cooperative puzzle game I have ever played",
+    "label": "POSITIVE",
+    "confidence": 0.9998,
+    "voted_up": true
+  },
+  {
+    "review_id": "236844679",
+    "texto": "Cool gmae",
+    "label": "POSITIVE",
+    "confidence": 0.9996,
+    "voted_up": true
+  },
+  {
+    "review_id": "236844234",
+    "texto": "paul tattoo",
+    "label": "POSITIVE",
+    "confidence": 0.6118,
+    "voted_up": true
+  },
+  {
+    "review_id": "236842991",
+    "texto": "The mechanics are fun, some puzzles are quite challenging but you'll eventually get there. The texts and speeches are hilarious. Really good time playing it",
+    "label": "POSITIVE",
+    "confidence": 0.9999,
+    "voted_up": true
+  }
+]
